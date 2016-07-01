@@ -15,5 +15,7 @@
 - (void)jump2 {
     NSLog(@"jump2");
 }
-
+－(void)jump3 {
+  NSLog(@"jump3");
+}
 @end
